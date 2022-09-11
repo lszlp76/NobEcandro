@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NobEc</string>
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title"><b>EN YAKIN NÖBETÇİ ECZANE</b></string>
+    <string name="second_slide_title"><b>TÜM ECZANELERİ GÖRÜN</b></string>
+    <string name="athird_slide_title"><b>NÖBETÇİ ECZANELERİ LİSTEYELİN</b></string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Bulunduğunuz konuma en yakın nöbetçi eczaneyi anında görün. </string>
+    <string name="second_slide_desc">Bulunduğunuz konuma yakın eczaneleri  anında görün.</string>
+    <string name="third_slide_desc">Bulunduğunuz şehirdeki nöbetçi eczaneleri listeleyin, yakınlarınızla paylaşın</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">BAŞLAYALIM</string>
+    <string name="title_activity_main_controller">MainController</string>
+    <string name="title_home">Yakındakiler</string>
+    <string name="title_dashboard">Nöbetçi Eczaneler</string>
+    <string name="title_notifications">Ayarlar</string>
+
+    <!--Settings List Elements-->
+    <string name="rate">Uygulamayı değerlendir</string>
+    <string name="policy">Policy</string>
+    <string name="about">Hakkında</string>
+    <string name="satellite">Uydu sinyal seviyesi</string>
+
+    <!--Google Map Keys -->
+    <string name="google_map_key_place">AIzaSyDa7QFIp37mG40p81Ckj7r6LSvYwH1Uty4</string>
+    <string name="google_map_key">AIzaSyAnDmTZaaXEVE-5ygEpFpOvF-VWG2oHLjU</string>
+</resources>

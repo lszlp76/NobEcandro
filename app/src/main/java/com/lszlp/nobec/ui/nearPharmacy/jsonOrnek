@@ -1,0 +1,901 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "AeJbb3fi3Nkjic9Xqa07UtCy4DPsUv75b0QYDkQDu5DeNTTR95MIcCX0_xIBI2RPj3dxg5GEEB_coVQbkW6AIrdV9v-05_GjSG_fBuKlw2jWSlpNhxrVv7JdN1VfbzTTqFWh8WT4pXUwGvhTn_-FXXFDal6WYC9A0RQJAmanVsk7qbVenRTvn98sZRbRhLP3fJ9YYlfFyEL_OFVwWdEjT86HjWfJ9erxM1UweLyl520uFTbX0Jc15JB3Wvb5AhVV7_uCBk25bviuVt7pgM2x68V9mhxb9_r14Y4bKkR-U61ta-LNh29mkuAVQTaH2n7f3m47dI-iTUGsRt9M9LqLtco21XGoMZSA9AZkutFOBxga4Muxt4ZQW6fRU6azsli9Q5Qo7lhl105N7a-jEtEINf52gLAeapVPpgaivycmwYoKPqmA3zf2mLQZB_FrBl7ooeOfikn1",
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2129817,
+          "lng" : 28.9810101
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.21428417989272,
+            "lng" : 28.98236872989272
+          },
+          "southwest" : {
+            "lat" : 40.21158452010727,
+            "lng" : 28.97966907010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Eczane Derya Gülpınar",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1536,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104557955256698690655\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3d8-WiJJ7KMQna-6FmtztbvlRp-_Wzf5nIhYy2UYImrquG2l6mt_c-KU5SHnIPFHHfUWhffvq__wg6R2C7eNOCeROFrNCVgezLBHb5M41u8NNji1sR1i_rk_q_DGBe-aKdxAIZSFuIs_tULFBlWtqB_vETaA3IjqOduUz-ULGRvuK4K",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJi6y7OSEUyhQRz6UAVcmBOVA",
+      "plus_code" : {
+        "compound_code" : "6X7J+5C Nilüfer, Bursa",
+        "global_code" : "8GGC6X7J+5C"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJi6y7OSEUyhQRz6UAVcmBOVA",
+      "scope" : "GOOGLE",
+      "types" : [
+        "pharmacy",
+        "drugstore",
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 10,
+      "vicinity" : "İhsaniye, Barbaros Cd. 18/A, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2057972,
+          "lng" : 29.0055654
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.20719222989272,
+            "lng" : 29.00693407989272
+          },
+          "southwest" : {
+            "lat" : 40.20449257010728,
+            "lng" : 29.00423442010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Dikkaldirim- Azimli Eczanesi",
+      "place_id" : "ChIJC6RVg9YVyhQRNmi6T0HZhMM",
+      "plus_code" : {
+        "compound_code" : "6244+86 Nilüfer, Bursa",
+        "global_code" : "8GGF6244+86"
+      },
+      "rating" : 0,
+      "reference" : "ChIJC6RVg9YVyhQRNmi6T0HZhMM",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 0,
+      "vicinity" : "Dikkaldırım, Hüdavendigar Sk. NO:3, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2256535,
+          "lng" : 28.9866573
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22702122989272,
+            "lng" : 28.98812557989272
+          },
+          "southwest" : {
+            "lat" : 40.22432157010727,
+            "lng" : 28.98542592010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Eczane Kıvanç",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106715156803313866112\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3dUpR2OgC7EhoAqupyt3PjgZ3kVARWuXt2VHfKaSN1eRz46ZAFKdsPh9I-BDNDrbD-C_-IXMxXTJXv_ZiJk-CmJ1zLoMzbes_01rvr0Nl173LV6ENI3FPzPVsAsnG-sA0wXZ5YfSI1bCvogOqcLRd0Wyx_OyYE0UK6wWyal_2tBn-um",
+          "width" : 1960
+        }
+      ],
+      "place_id" : "ChIJw2c2PDgUyhQRK31VT5R1Ul8",
+      "plus_code" : {
+        "compound_code" : "6XGP+7M Nilüfer, Bursa",
+        "global_code" : "8GGC6XGP+7M"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJw2c2PDgUyhQRK31VT5R1Ul8",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 16,
+      "vicinity" : "Esentepe, İstiklal Cd. No:36 D:C, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2216885,
+          "lng" : 29.0059548
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22306727989272,
+            "lng" : 29.00737377989272
+          },
+          "southwest" : {
+            "lat" : 40.22036762010728,
+            "lng" : 29.00467412010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Aydın Eczane Optik",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "place_id" : "ChIJqZP1G7YVyhQR-JHNNjksKWQ",
+      "plus_code" : {
+        "compound_code" : "62C4+P9 Osmangazi, Bursa",
+        "global_code" : "8GGF62C4+P9"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJqZP1G7YVyhQR-JHNNjksKWQ",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 5,
+      "vicinity" : "İstiklal, İstiklal Cd. No:3, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2216138,
+          "lng" : 28.9986006
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22299072989272,
+            "lng" : 28.99990277989272
+          },
+          "southwest" : {
+            "lat" : 40.22029107010728,
+            "lng" : 28.99720312010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Eczane Ozan",
+      "place_id" : "ChIJFcLAJTUUyhQRNNYq_FSG9uo",
+      "plus_code" : {
+        "compound_code" : "6XCX+JC Osmangazi, Bursa",
+        "global_code" : "8GGC6XCX+JC"
+      },
+      "rating" : 5,
+      "reference" : "ChIJFcLAJTUUyhQRNNYq_FSG9uo",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "Yenikaraman, Turan Mehmet Cd. No:61, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.23269579999999,
+          "lng" : 28.9902131
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.23405692989272,
+            "lng" : 28.99157437989272
+          },
+          "southwest" : {
+            "lat" : 40.23135727010727,
+            "lng" : 28.98887472010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Ayşegül Eczane",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "place_id" : "ChIJsyS6Bk8UyhQRxR43ep_GrnU",
+      "plus_code" : {
+        "compound_code" : "6XMR+33 Osmangazi, Bursa",
+        "global_code" : "8GGC6XMR+33"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJsyS6Bk8UyhQRxR43ep_GrnU",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 23,
+      "vicinity" : "Bağlarbaşı, 1. Çamlı Sk. No:52, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2322131,
+          "lng" : 28.988183
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.23356172989271,
+            "lng" : 28.98953482989272
+          },
+          "southwest" : {
+            "lat" : 40.23086207010727,
+            "lng" : 28.98683517010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Eczane Yıldız",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1920,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115756678615587931372\"\u003eeren kuşoğulları\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3cjKdGHiV730c7H_CREBs3jJpmjAxbeFFU04bV5dHHkvTVswsfLahlUax3M4IvUsZOzDHnygitjRsHaENvJg_FSBy8gbkpNhBB7pvosP2m4e9SskgFeAIwCRH5lHjjEVHfxDY3mxRCnpmd3ez7snG2MNhiGYZYHjUATldF80cPtOqia",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJMYTrgYEUyhQRgT9KWRtoaZM",
+      "plus_code" : {
+        "compound_code" : "6XJQ+V7 Osmangazi, Bursa",
+        "global_code" : "8GGC6XJQ+V7"
+      },
+      "rating" : 4,
+      "reference" : "ChIJMYTrgYEUyhQRgT9KWRtoaZM",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 12,
+      "vicinity" : "Bağlarbaşı, Osmangazi Sk. 11/A, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2274014,
+          "lng" : 28.97865419999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22871887989272,
+            "lng" : 28.97993697989271
+          },
+          "southwest" : {
+            "lat" : 40.22601922010728,
+            "lng" : 28.97723732010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Dolunay Eczanesi",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112125624640676633587\"\u003eMustafa Tunaboylu\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3eVkY-kCR3UUkYBGDEQLcQ1pSxOmLl_YqsZ-uHaFVSEiN8x6kg1Y3vJ_8_EWSg7smGirBxIDkyXMgyKT5MkzbTZdgUs1wqZvzXhi9vNHf8CVgukyYJyRlHVyRe1zH6-dr07UBu5KyE3lpt52u8fh1HVa39-b9cSDF744yGMi-SWceU6",
+          "width" : 750
+        }
+      ],
+      "place_id" : "ChIJ06hzpD8UyhQRzE-M9E4NqFw",
+      "plus_code" : {
+        "compound_code" : "6XGH+XF Nilüfer, Bursa",
+        "global_code" : "8GGC6XGH+XF"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJ06hzpD8UyhQRzE-M9E4NqFw",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 12,
+      "vicinity" : "Fethiye, Ata Sk. Pk:16140, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2213047,
+          "lng" : 29.0042478
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22256262989272,
+            "lng" : 29.00550697989271
+          },
+          "southwest" : {
+            "lat" : 40.21986297010728,
+            "lng" : 29.00280732010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Gökay Eczanesi",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112049318438157561544\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3cQRAC-H1OzNFyO7Wa83z8evxyGr3kDKoNFCS6XXtxhBnsAKNDwp-7S7uxJ_wsbPeOLrZnoEwJSpX8OiDsWqn6BYxdPaEcmEBXUhaUITZMPD4GSga8rh4zIVcdN5eJhf_79_Vkka8cMc_H-2Ai1siyFzf0bJdV5U9qSIdPjfcykeG43",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJy1WhGMoVyhQR1cW22LmFLKM",
+      "plus_code" : {
+        "compound_code" : "62C3+HM Osmangazi, Bursa",
+        "global_code" : "8GGF62C3+HM"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJy1WhGMoVyhQR1cW22LmFLKM",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6,
+      "vicinity" : "Hürriyet, 9. Cami Sk. No:1, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.23174789999999,
+          "lng" : 28.9859294
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.23306867989272,
+            "lng" : 28.98727742989272
+          },
+          "southwest" : {
+            "lat" : 40.23036902010728,
+            "lng" : 28.98457777010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Bağlarbaşı Can Eczanesi",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110262769252950264630\"\u003eErdal CAN\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3eYLl22g5CV7FyjqCgz3VomZjZyef25yg1DnOseSpf8hiqEZpjDiUpGowQmzG1Kq6sxcFdmUE6NBD8h2fUpkYBdTYuzpK6lzGazCV3Nxpol9l9JOH5zJIOBCJdSmi6JEiyZnmKnhdLvTyradjAHNFxnshilp9NqMSR61rGwpUWR59xJ",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJ5ZKLjEUUyhQR3hcQ8hqABBQ",
+      "plus_code" : {
+        "compound_code" : "6XJP+M9 Osmangazi, Bursa",
+        "global_code" : "8GGC6XJP+M9"
+      },
+      "rating" : 3.7,
+      "reference" : "ChIJ5ZKLjEUUyhQR3hcQ8hqABBQ",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 14,
+      "vicinity" : "Bağlarbaşı, 1. Hürriyet Cd. No:166 D:c, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2310397,
+          "lng" : 28.9795788
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.23241237989272,
+            "lng" : 28.98099542989272
+          },
+          "southwest" : {
+            "lat" : 40.22971272010728,
+            "lng" : 28.97829577010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Berfin Eczanesi",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110778762572490995625\"\u003evildan soyal\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3cGrQ-rYOfJ5d6QaNu7dcbwkTAz1VMOJ_JFym29zaVcGzpQL5xlvCwzI0McJ7InwEl1Sx_HxraCBujdN9fEB-Z6aOyoy19H5FCuxnKtFrEwwV_kCF3kuLSpM2T1IyBQH08hSTcCnsm1DHGpKDhNxqfb6SKrsbsjt8gULwklIr_ynBaI",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJmc82BG4VyhQRu5rFApUQ0X4",
+      "plus_code" : {
+        "compound_code" : "6XJH+CR Nilüfer, Bursa",
+        "global_code" : "8GGC6XJH+CR"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJmc82BG4VyhQRu5rFApUQ0X4",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 20,
+      "vicinity" : "Fethiye, Feyiz Sk. No:16/A D:B blok, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2070394,
+          "lng" : 28.993088
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.20836862989272,
+            "lng" : 28.99439537989273
+          },
+          "southwest" : {
+            "lat" : 40.20566897010728,
+            "lng" : 28.99169572010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "İstanbul Eczanesi",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1932,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115275687448720377257\"\u003esk8anil\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3ffgtQtGKxqI0uzgWf_GIEbCfWZBKyaYnRTYwHLOBfGktdrSxm-Kga0lVfTN2A3D2vyYxqxBel8nNVyi21w1zbNe8UQ2C76dEn6GJ-bGnivjp-0XgeLnPGco5x4hN60CR2RVupPmcBQIOq45IuAO1n1V9OC9lx8LVneqQCyPUhBkT4R",
+          "width" : 2576
+        }
+      ],
+      "place_id" : "ChIJvRib3eA9yhQRIkY-tv3YC8s",
+      "plus_code" : {
+        "compound_code" : "6X4V+R6 Nilüfer, Bursa",
+        "global_code" : "8GGC6X4V+R6"
+      },
+      "rating" : 3.7,
+      "reference" : "ChIJvRib3eA9yhQRIkY-tv3YC8s",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 10,
+      "vicinity" : "Odunluk Mahallesi Lefkoşe Caddesi 9A D:g, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.21115270000001,
+          "lng" : 28.9990374
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.21249872989272,
+            "lng" : 29.00026482989271
+          },
+          "southwest" : {
+            "lat" : 40.20979907010727,
+            "lng" : 28.99756517010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "ÇAKIL ECZANESİ",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2016,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106964884449669402621\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3dT7uelWJVh9iP-9BPpRK3Y2E-2X9x8xWdqqB2P8BodqGUDYhps2X_HrL5q7b-xNvQMbx6wsxIdpArTQAM_5tHo9_GrKavwioLILax5ePd8g-fGDDZrxSQII76Wq6M9srQkBqW_WTAa2VTosWflrr7eQJhDIyDYyLlAeJmuAoCmlZcB",
+          "width" : 1512
+        }
+      ],
+      "place_id" : "ChIJZUvUONHlyhQRb4MlVU70Z3Y",
+      "plus_code" : {
+        "compound_code" : "6X6X+FJ Nilüfer, Bursa",
+        "global_code" : "8GGC6X6X+FJ"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJZUvUONHlyhQRb4MlVU70Z3Y",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 29,
+      "vicinity" : "Odunluk Mahallesi Akpınar Caddesi No:12A/B Nilüfer/Bursa Parkora Eğlence Merkezi - Medicana Hastahanesi Karşısı, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2210671,
+          "lng" : 29.0077982
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22240357989272,
+            "lng" : 29.00916397989272
+          },
+          "southwest" : {
+            "lat" : 40.21970392010728,
+            "lng" : 29.00646432010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Hürriyet Eczanesi",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "place_id" : "ChIJKX8oKjUUyhQRWR3l_gkzj7w",
+      "plus_code" : {
+        "compound_code" : "62C5+C4 Osmangazi, Bursa",
+        "global_code" : "8GGF62C5+C4"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJKX8oKjUUyhQRWR3l_gkzj7w",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 16,
+      "vicinity" : "İstiklal, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2205979,
+          "lng" : 29.00532299999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22198337989273,
+            "lng" : 29.00671517989272
+          },
+          "southwest" : {
+            "lat" : 40.21928372010728,
+            "lng" : 29.00401552010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Aladağ Eczanesi",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "place_id" : "ChIJSez89MkVyhQRKuId0xskMNc",
+      "plus_code" : {
+        "compound_code" : "62C4+64 Osmangazi, Bursa",
+        "global_code" : "8GGF62C4+64"
+      },
+      "rating" : 5,
+      "reference" : "ChIJSez89MkVyhQRKuId0xskMNc",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3,
+      "vicinity" : "Hürriyet, 1. Hürriyet Cd. No:63/A, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2222849,
+          "lng" : 29.0066295
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22363037989273,
+            "lng" : 29.00806962989272
+          },
+          "southwest" : {
+            "lat" : 40.22093072010728,
+            "lng" : 29.00536997010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Görsel Eczane",
+      "photos" : [
+        {
+          "height" : 800,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100225011690878672859\"\u003epostasever\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3esSQVY2oocjbgDuPm0sDY7G4dw49BEDfexNAw5LvTRvpxaNi8KmXAYUVq_p6rBV0WmjGMKb6sjREC4K1LlDbQNtc-gR0B92tdTAdE3WWJFGqEKvOen6nzL14_RQt0uG74e_jbK54Pnde5xF1Ey-L_U3w9_LRrTMAf8LfvSGnaT1HEB",
+          "width" : 600
+        }
+      ],
+      "place_id" : "ChIJq12chacVyhQRIMsbRlYD798",
+      "plus_code" : {
+        "compound_code" : "62C4+WM Osmangazi, Bursa",
+        "global_code" : "8GGF62C4+WM"
+      },
+      "rating" : 5,
+      "reference" : "ChIJq12chacVyhQRIMsbRlYD798",
+      "scope" : "GOOGLE",
+      "types" : [
+        "drugstore",
+        "pharmacy",
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 8,
+      "vicinity" : "İstiklal, İstiklal Cd. No:15, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2213589,
+          "lng" : 28.998901
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22266347989272,
+            "lng" : 29.00024147989272
+          },
+          "southwest" : {
+            "lat" : 40.21996382010728,
+            "lng" : 28.99754182010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Çardak Eczanesi",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100513698518822261985\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3dxsyrOd-gncKDzbXprQuDXroIW4apXfSKKRLFf8_GyjN4Nugwlv6XyB4AQkJbKlhHbnwge6d-Ufl1DF-IWf_x7KPiFz15YrLhDTKZbEcRpJcbjJXJ2yUw1SuNqnTh4btOHROnLH7jJli5e_OAnx5tCIAC42LaHD7vPCdYzYFccZNii",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJrbgVKTUUyhQRfj7wrCRWgSE",
+      "plus_code" : {
+        "compound_code" : "6XCX+HH Osmangazi, Bursa",
+        "global_code" : "8GGC6XCX+HH"
+      },
+      "rating" : 5,
+      "reference" : "ChIJrbgVKTUUyhQRfj7wrCRWgSE",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 19,
+      "vicinity" : "Yenikaraman, Yenikaraman Aile Sağlığı Merkezi Karşısı, Polat Cd. 68/a, Osmangazi"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2209453,
+          "lng" : 28.9864934
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.22225482989273,
+            "lng" : 28.98781587989273
+          },
+          "southwest" : {
+            "lat" : 40.21955517010728,
+            "lng" : 28.98511622010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "BİRSEN ECZANESİ",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1360,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101373639109689100161\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3cf8HuLMr6z-UQox2Y9Q6Np3oLb6Y3nwJvnrIJu_ckbVaKzIdrIcBBxnCPwI9y4Z1Gg7kOOqb9DjBonvHpaGVn7ibYSwKS5dLcl1qIJ6JNK4flvwkOdmpIMvm7rpFqGeCcGHiUu_R1dmzpjxE4FlzNHujbNov0GOZT55UYsWWGA2CGX",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJSf-bajoUyhQR1UVJKhg9hYM",
+      "plus_code" : {
+        "compound_code" : "6XCP+9H Nilüfer, Bursa",
+        "global_code" : "8GGC6XCP+9H"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJSf-bajoUyhQR1UVJKhg9hYM",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 13,
+      "vicinity" : "İhsaniye, Fatih Sultan Mehmet Blv. No:16, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2134807,
+          "lng" : 28.9783576
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.21476887989272,
+            "lng" : 28.97971177989272
+          },
+          "southwest" : {
+            "lat" : 40.21206922010727,
+            "lng" : 28.97701212010728
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+      "icon_background_color" : "#F88181",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+      "name" : "Barbaros Eczanesi",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117222773771747456044\"\u003eA Google User\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3cMzJrVsLrom1irxk8OH3gBsnZBiWzNHTF0muny4RwlUl46T5DL9NSNBr55DDNvns9-pshq3Aax0_DK2DEx_1DFweDIqxcK7wlis2PUH7yipqd8E8tkSYCSz9bqyva1hHqT8ou_AaNQJgcf1f1tZOFqrDv-O58v0le7VHS8al3h0VQT",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJ97jopCEUyhQRsFGA7yhiVG8",
+      "plus_code" : {
+        "compound_code" : "6X7H+98 Nilüfer, Bursa",
+        "global_code" : "8GGC6X7H+98"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJ97jopCEUyhQRsFGA7yhiVG8",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 16,
+      "vicinity" : "İhsaniye Mahallesi Barbaros Caddesi FSM 1453 Ofis no:1C/G, D:7, Nilüfer"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 40.2325475,
+          "lng" : 28.9791772
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 40.23394197989273,
+            "lng" : 28.98044287989272
+          },
+          "southwest" : {
+            "lat" : 40.23124232010728,
+            "lng" : 28.97774322010727
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name" : "Alev Eczanesi",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100214960613949338359\"\u003ealev acaban\u003c/a\u003e"
+          ],
+          "photo_reference" : "AeJbb3e3zJjmmA-D_yjL6wgt-eVA-xRxVuh28d1dnoMXjanBbl70LcRLB6irla--BR8ScgE-0nDPKZ8tBT5zuGk0elAVqUFj0wFXLhpn00GQXJDiaDsaLXroUoppLH50Wh1qr9JNFW5Pquwhy46pPBz5F4-5-QJ6l81ch9cIcva0TsPxpEOn",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJv9M3yoAUyhQRNKdDSZaum-Y",
+      "plus_code" : {
+        "compound_code" : "6XMH+2M Nilüfer, Bursa",
+        "global_code" : "8GGC6XMH+2M"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJv9M3yoAUyhQRNKdDSZaum-Y",
+      "scope" : "GOOGLE",
+      "types" : [
+        "drugstore",
+        "pharmacy",
+        "store",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 12,
+      "vicinity" : "Fethiye, Huzur Cd. no:7/a, Nilüfer"
+    }
+  ],
+  "status" : "OK"
+}
+
+
