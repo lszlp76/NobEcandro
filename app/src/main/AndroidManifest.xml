@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.lszlp.nobec">
+    xmlns:tools="http://schemas.android.com/tools">
 
    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"
        tools:ignore="CoarseFineLocation" />
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -17,7 +17,8 @@
         tools:targetApi="31">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="" />
+            android:value="AIzaSyBNWRI2QEGVfXLZlLjsPLeM0_4lCpn6Hcc"/>
+           <!-- AIzaSyAnDmTZaaXEVE-5ygEpFpOvF-VWG2oHLjU" /-->
         <activity
             android:name=".MainController"
             android:exported="false"

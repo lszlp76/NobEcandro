@@ -28,5 +28,7 @@
     <string name="satellite">Uydu sinyal seviyesi</string>
 
     <!--Google Map Keys -->
-   
+    <string name="google_map_key_place">AIzaSyBNWRI2QEGVfXLZlLjsPLeM0_4lCpn6Hcc
+</string>
+
 </resources>
